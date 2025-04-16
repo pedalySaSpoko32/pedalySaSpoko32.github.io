@@ -7,17 +7,18 @@
 
 /**Styling**/
 
-.warning {
-    width: 90%;
-    text-align: left;
-    margin: 70px auto; 
-    font-size: 14px;
-    line-height: 1.6; 
-    color: var(--main-color); 
-    background-color: #f8f8f8;
-    padding: 15px; 
-    border-radius: 10px; 
+.disclaimer {
+  font-size: 14px;
+  color: #444;
+  line-height: 1.6;
 }
+
+.disclaimer br {
+  display: block;
+  content: "";
+  margin-top: 12px; /* Adjust spacing as needed */
+}
+
 
 
 .inner_grid{
