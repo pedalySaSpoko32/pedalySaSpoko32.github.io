@@ -7,16 +7,15 @@
 
 /**Styling**/
 
-.disclaimer {
-  font-size: 14px;
-  color: #444;
-  line-height: 1.6;
-}
-
-.disclaimer br {
-  display: block;
-  content: "";
-  margin-top: 12px; /* Adjust spacing as needed */
+.warning {
+  width: 90%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  font-size: 13px;
+  line-height: 40px;
 }
 
 
